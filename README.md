@@ -23,6 +23,7 @@ The program is distributed in the hope that it will be useful, but without any w
 ##Installation
 
 The distribution package includes a manual which describes how to install and use Luciwik.
-Support
+
+##Support
 
 If you want to contact the creator of Luciwik you can send a message using http://lucidor.org/contact.php.
