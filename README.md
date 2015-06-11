@@ -1,6 +1,6 @@
-Luciwik
+#Luciwik
 
-Introduction
+##Introduction
 
 Luciwik is an EPUB/OPDS system for MediaWiki. It consists of two extensions for MediaWiki, one called Luciwik, and one called LuciwikEPUB.
 
@@ -13,15 +13,16 @@ The companion extension LuciwikEPUB provides functionality to output wiki articl
 EPUB is a standard format for e-books.
 
 Luciwik and LuciwikEPUB are designed to be used together, but they can also be used independently.
-Download
+
+##Download
 
 Luciwik is free software and is released under the GNU Affero General Public License.
 
 The program is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. See the GNU Affero General Public License for more details.
 
-Installation
+##Installation
 
 The distribution package includes a manual which describes how to install and use Luciwik.
 Support
 
-If you want to contact the creator of Luciwik you can send a message using this page.
+If you want to contact the creator of Luciwik you can send a message using http://lucidor.org/contact.php.
