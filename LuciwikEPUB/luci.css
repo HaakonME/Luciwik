@@ -1,0 +1,50 @@
+/*
+@font-face {
+    font-family: Gentium;
+    font-weight: normal;
+    font-style: normal;
+    src: url(gentium.otf) format('opentype');
+}
+*/
+
+body {
+    font-family: "DejaVu", "Bitstream Vera", serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #703090;
+}
+
+a:visited {
+    color: #900000;
+}
+
+a:hover {
+    color: #f00000;
+}
+
+body.cover {
+    color: #500070;
+    /*background-color: #fffae0;*/
+    border: 2px solid #500070;
+    border-radius: 10px;
+}
+
+p.covertitle {
+    font-size: 20pt;
+    text-align: center;
+}
+
+img.cover {
+    text-align: center;
+}
+
+p.cover {
+    font-size: 10pt;
+    text-align: center;
+    color: #703090;
+}
